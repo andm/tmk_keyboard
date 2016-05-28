@@ -60,6 +60,7 @@ To flash to the Pro Micro, use:
                     #---------------#
 
 Function keys:
+
 FN0: Switch to layer 1
 
 FN1: Toggle gaming layer
