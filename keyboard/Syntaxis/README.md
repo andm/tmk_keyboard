@@ -61,9 +61,16 @@ To flash to the Pro Micro, use:
 
 Function keys:
 FN0: Switch to layer 1
+
 FN1: Toggle gaming layer
+
 FN2: Gaming layer: change numbers to function keys
+
 FN3: Tap for space, hold for control
+
 FN4: Tap for tab, hold for alt
-FN5: Oneshot shift 
+
+FN5: Oneshot shift
+
 FN6: Tap for FN5, hold for shift
+
